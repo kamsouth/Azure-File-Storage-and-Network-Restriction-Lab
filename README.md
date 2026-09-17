@@ -267,7 +267,8 @@ subnet.
 
 `14-network-restriction-configured.png`
 
-![Network Restriction Configured](screenshots/14-network-restriction-configured.png)
+<img width="1906" height="922" alt="image" src="https://github.com/user-attachments/assets/da9cb3ca-fec1-4714-8e89-56a2afd41548" />
+
 
 ---
 
