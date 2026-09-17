@@ -246,7 +246,8 @@ I then saved the networking configuration.
 
 `13-remove-public-ip.png`
 
-![Remove Public IP](screenshots/13-remove-public-ip.png)
+<img width="1293" height="799" alt="image" src="https://github.com/user-attachments/assets/ac6b0d27-1adc-4ee7-8163-9ee8935f0bad" />
+
 
 ---
 
