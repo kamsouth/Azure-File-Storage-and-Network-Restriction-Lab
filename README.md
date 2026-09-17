@@ -72,7 +72,8 @@ Under **Classic file shares**, I verified that `share1` had been successfully cr
 
 `04-verify-share1.png`
 
-![Verify File Share](screenshots/04-verify-share1.png)
+<img width="1886" height="893" alt="image" src="https://github.com/user-attachments/assets/066bb817-23c3-4678-a4c8-841c8737c70e" />
+
 
 ---
 
