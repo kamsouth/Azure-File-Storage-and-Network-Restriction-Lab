@@ -37,7 +37,8 @@ I kept the default access tier set to:
 
 `02-create-share1.png`
 
-![Create File Share](screenshots/02-create-share1.png)
+<img width="841" height="912" alt="image" src="https://github.com/user-attachments/assets/bb46fff6-5ba1-4168-96a6-bc49b476e163" />
+
 
 ---
 
