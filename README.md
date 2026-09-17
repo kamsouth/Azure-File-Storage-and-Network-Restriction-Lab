@@ -305,7 +305,8 @@ My Azure identity could still access the Azure portal, but the Storage Account r
 
 `16-access-denied.png`
 
-![Access Denied](screenshots/16-access-denied.png)
+<img width="1373" height="890" alt="image" src="https://github.com/user-attachments/assets/bc258547-5455-4dba-9a60-a301a2854d00" />
+
 
 ---
 
