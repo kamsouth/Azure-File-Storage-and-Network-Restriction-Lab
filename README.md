@@ -89,7 +89,8 @@ I reviewed the available options, including the ability to create directories us
 
 `05-open-share1.png`
 
-![Open File Share](screenshots/05-open-share1.png)
+<img width="1906" height="915" alt="image" src="https://github.com/user-attachments/assets/094c52f4-b3b1-458d-961e-3e8cb3f3665e" />
+
 
 ---
 
